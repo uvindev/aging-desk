@@ -2,6 +2,8 @@
 
 AgingDesk turns an open-invoice CSV into a currency-safe aging ledger and an owner-specific collection queue. It runs in the browser and does not transmit invoice contents.
 
+![AgingDesk on load: the screen that turns an open-invoice export into an aging ledger](docs/screenshot.png)
+
 ## Who it is for
 
 Small agencies, consultancies, bookkeepers, and finance operators who can export open invoices but do not need a full accounts-receivable automation platform.
