@@ -201,7 +201,7 @@ export function analyzeInvoices(
         invoiceId: null,
         message: `${top[0]} holds ${((top[1] / total) * 100).toFixed(1)}% of the open ${currency} balance.`,
         repair:
-          "Review the [TARGET] 35% concentration marker with the account owner.",
+          "Review the 35% concentration marker with the account owner.",
       });
     }
   }
