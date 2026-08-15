@@ -11,7 +11,7 @@ Small agencies, consultancies, bookkeepers, and finance operators who can export
 - Parses quoted UTF-8 CSV with explicit row errors.
 - Separates current, 1–30, 31–60, 61–90, and 90+ balances by currency.
 - Prioritizes disputed invoices, broken promises, overdue balances, due-soon invoices, and scheduled work.
-- Finds duplicate IDs, invalid dates, missing owners, missing promise dates, and `[TARGET]` 35% client concentration.
+- Finds duplicate IDs, invalid dates, missing owners, missing promise dates, and 35% client concentration.
 - Exports a formula-safe collection queue and a JSON audit record.
 
 It does not replace an accounting ledger, verify invoice facts, convert currencies, predict payments, send reminders, collect money, or provide accounting advice.
@@ -36,7 +36,7 @@ The signature command must exit `0` with a final line of `SIGNED`.
 
 ## Monetization
 
-The single-export workbench is free. Team is a `[TARGET] $19/workspace/month` hypothesis for shared collection queues, scheduled imports, accounting integrations, reminder history, role-based ownership, and policy enforcement. Demand, customers, and revenue are unverified.
+The single-export workbench is free. Demand, customers, and revenue are unverified.
 
 ## Privacy and limits
 

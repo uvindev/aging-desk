@@ -15,3 +15,7 @@ Keyboard focus outlines were browser-confirmed on the primary links. The in-app 
 Rollback after publication: `git revert HEAD && git push origin main`.
 
 VERDICT: GO — private source publication only. No production deployment, checkout, outreach, customer, demand, or revenue claim is included.
+
+---
+
+**Correction, 15 August 2026.** This repository is public. The line above recorded a private-only publication and was true when it was written; it is left as written rather than edited, and this note records the reversal. An MIT LICENSE was added at the same time and every source header updated to match it.
