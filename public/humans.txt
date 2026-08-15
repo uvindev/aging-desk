@@ -1,0 +1,12 @@
+/* TEAM */
+Engineer: Uvin Vindula (IAMUVIN)
+Site: https://iamuvin.com
+Company: ASI Research Labs
+Company site: https://asiresearch.io
+Location: Sri Lanka
+
+/* SITE */
+Product: AgingDesk
+Built: 2026
+Standards: HTML5, TypeScript, Tailwind CSS v4
+Components: Next.js 15, Zod, Vitest
